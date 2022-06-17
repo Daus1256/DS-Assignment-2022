@@ -1,4 +1,3 @@
-
 #!/bin/bash
 VERBOSE=$1
 TIMELIMIT=3s
